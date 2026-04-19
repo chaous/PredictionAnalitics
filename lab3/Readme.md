@@ -162,6 +162,3 @@ print(result['confidence'])      # уверенность
 - **Интерпретация**: shap
 - **Визуализация**: matplotlib, seaborn
 
-## Источник данных
-
-[Open-Meteo Historical Weather API](https://open-meteo.com/en/docs/historical-weather-api) — реанализ ERA5
